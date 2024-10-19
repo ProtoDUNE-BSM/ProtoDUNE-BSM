@@ -22,7 +22,7 @@ At this moment, tools are devoted to finding interactions of neutrinos generated
 
 One of the major developments in the ProtoDUNE-BSM project is the implementation of a set of tools within the DAQ framework to facilitate data processing and event visualization. These tools are designed to streamline the analysis of raw data files, enabling researchers to extract relevant information and identify interesting events for further study.
 
-More information about the setup, tools and their usage can be found in the [README_evd.md](README_evd.md) file.
+More information about the setup, tools and their usage can be found in the corresponding [README.md](https://github.com/ProtoDUNE-BSM/trgtools/blob/main/docs/README.md) file.
 
 ## LArSoft framework
 
